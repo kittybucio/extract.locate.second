@@ -1,0 +1,54 @@
+
+    "items": [
+        {
+            "timestamp": 1645279407000,
+            "position": {
+                "latitude": 33.0497255,
+                "longitude": -97.0158602,
+                "accuracy": 5.2,
+                "altitude": 138,
+                "heading": 252.03036499023438,
+                "speed": 0.079,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 310,
+                    "mobileNetworkCode": 410,
+                    "locationAreaCode": 27210,
+                    "cellId": 134682261,
+                    "primaryScramblingCode": 459,
+                    "serving": 1,
+                    "signalStrength": -101
+                }
+            ]
+        },
+        {
+            "timestamp": 1645279412000,
+            "position": {
+                "latitude": 33.049724,
+                "longitude": -97.0158607,
+                "accuracy": 4.3,
+                "altitude": 137.6,
+                "heading": 201.40602111816406,
+                "speed": 0.029,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 310,
+                    "mobileNetworkCode": 410,
+                    "locationAreaCode": 27210,
+                    "cellId": 134682261,
+                    "primaryScramblingCode": 459,
+                    "serving": 1,
+                    "signalStrength": -100
+                }
+            ]
+        }
+    ]
+}
+MLS_Geo_20220219_080332_meas_ainf_d0_n2.txt
+Displaying MLS_Geo_20220219_074953_meas_ainf_d0_n92.txt.
